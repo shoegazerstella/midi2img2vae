@@ -3,6 +3,7 @@
 A VAE trained on the image representation of midi files.
 
 ![](reconstructed_batch002.png)
+
 ![](reconstructed_batch001.png)
 
 
