@@ -13,7 +13,7 @@ I am sharing a model and some exaples in the `generations/` folder.
 
 ### Dataset
 [groove-v1.0.0-midionly.zip](groove-v1.0.0-midionly.zip) from the
-[Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove#:~:text=The%20Groove%20MIDI%20Dataset%20(GMD,over%2022%2C000%20measures%20of%20drumming.)
+[Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove)
 
 ### Data Preprocessing
 `python data_preprocessing.py`: converts midi to images using [https://github.com/mathigatti/midi2img](https://github.com/mathigatti/midi2img).
