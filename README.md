@@ -19,7 +19,7 @@ A VAE trained on the image representation of midi files.
 
 ### Status
 I am still exploring this idea. Feel free to clone this repo and contribute if you like it.
-I am sharing a model and some exaples in the `generations/` folder.
+I am sharing a model and some examples in the `generations/` folder.
 
 #### Credits
 The code is mostly based on the [VAE series](https://www.youtube.com/watch?v=Ey8IZQl_lKs&list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp) by [Valerio Velardo](https://github.com/musikalkemist/generating-sound-with-neural-networks).
