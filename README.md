@@ -11,7 +11,7 @@ A VAE trained on the image representation of midi files.
 [Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove)
 
 ### Data Preprocessing
-* `python data_preprocessing.py`: converts midi to images using [https://github.com/mathigatti/midi2img](https://github.com/mathigatti/midi2img).
+* `data_preprocessing.py`: converts midi to images using [https://github.com/mathigatti/midi2img](https://github.com/mathigatti/midi2img).
 
 * `train.py`: train the vae
 
