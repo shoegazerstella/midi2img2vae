@@ -16,9 +16,11 @@ I am sharing a model and some exaples in the `generations/` folder.
 [Groove MIDI Dataset](https://magenta.tensorflow.org/datasets/groove)
 
 ### Data Preprocessing
-`python data_preprocessing.py`: converts midi to images using [https://github.com/mathigatti/midi2img](https://github.com/mathigatti/midi2img).
-`train.py`: train the vae
-`analysis.py`: run analysis on trained model
+* `python data_preprocessing.py`: converts midi to images using [https://github.com/mathigatti/midi2img](https://github.com/mathigatti/midi2img).
+
+* `train.py`: train the vae
+
+* `analysis.py`: run analysis on trained model
 
 #### Credits
 The code is mostly based on the [VAE series](https://www.youtube.com/watch?v=Ey8IZQl_lKs&list=PL-wATfeyAMNpEyENTc-tVH5tfLGKtSWPp) by [Valerio Velardo](https://github.com/musikalkemist/generating-sound-with-neural-networks).
