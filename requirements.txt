@@ -1,0 +1,6 @@
+tensorflow==2.3.1
+music21
+imageio
+Pillow
+midi2audio
+matplotlib
