@@ -1,4 +1,4 @@
-# midi2img_vae
+# midi2img2vae
 
 A VAE trained on the image representation of midi files.
 
