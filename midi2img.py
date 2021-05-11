@@ -1,3 +1,4 @@
+# source code: https://github.com/mathigatti/midi2img
 from music21 import converter, instrument, note, chord
 import os, sys, json
 import numpy as np
