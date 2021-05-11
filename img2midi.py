@@ -1,3 +1,4 @@
+# source code: https://github.com/mathigatti/midi2img
 import os
 from PIL import Image
 import numpy as np
